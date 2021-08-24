@@ -1,0 +1,22 @@
+#navbar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: inline;
+  background-color: black;
+  color: white;
+}
+
+@media (max-width: 2000px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+
+p {
+  text-align: justify;
+}
+
+header {
+  font-weight: bolder;
+}
